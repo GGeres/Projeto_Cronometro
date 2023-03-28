@@ -5,5 +5,5 @@ let stop = document.getElementById('stop_buttom')
 let reset = document.getElementById('reset_buttom')
 
 function start(){
-
+    
 }
